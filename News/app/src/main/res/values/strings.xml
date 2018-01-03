@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- For menu -->
+    <string name="setting_menu_item">Settings</string>
+
+    <string name="settings_title">News Settings</string>
+
+    <!-- EmptyView Strings-->
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_data">No data available</string>
+
+    <string name="default_value">technology</string>
+
+    <string name="category_key">categotry</string>
+</resources>

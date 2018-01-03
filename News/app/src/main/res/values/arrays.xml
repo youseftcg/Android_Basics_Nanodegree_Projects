@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_category_labels">
+        <item>Home</item>
+        <item>Opinion</item>
+        <item>World</item>
+        <item>National</item>
+        <item>Politics</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Science</item>
+        <item>Health</item>
+        <item>Sports</item>
+        <item>Arts</item>
+        <item>Books</item>
+        <item>Movies</item>
+        <item>Fashion</item>
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Magazine</item>
+    </string-array>
+    <string-array name="settings_category_values">
+        <item> home </item>
+        <item>opinion</item>
+        <item>world</item>
+        <item>national</item>
+        <item>politics</item>
+        <item>business</item>
+        <item>technology</item>
+        <item>science</item>
+        <item>health</item>
+        <item>sports</item>
+        <item>arts</item>
+        <item>books</item>
+        <item>movies</item>
+        <item>fashion</item>
+        <item>food</item>
+        <item>travel</item>
+        <item>magazine</item>
+    </string-array>
+</resources>
