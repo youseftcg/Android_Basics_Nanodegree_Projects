@@ -1,0 +1,133 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.counter.MainActivity"
+    android:background="@drawable/football"
+    >
+
+    <LinearLayout
+        android:layout_margin="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:textStyle="bold"
+                android:text="Team A"
+                android:textSize="36dp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:id="@+id/teamA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="0"
+                android:layout_marginBottom="16dp"
+                android:textStyle="bold"
+                android:textSize="62dp"
+                android:textColor="#ffffff"/>
+
+            <Button
+                android:onClick="aAdd1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Goal +"
+                android:textSize="32sp"
+                android:layout_marginBottom="12dp"
+                android:textColor="#ffffff"/>
+
+            <Button
+                android:onClick="aMinus1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Goal -"
+                android:textSize="32sp"
+                android:textColor="#ffffff"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="16dp"
+                android:textStyle="bold"
+                android:text="Team B"
+                android:textSize="36dp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:id="@+id/teamB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="0"
+                android:layout_marginBottom="16dp"
+                android:textStyle="bold"
+                android:textSize="62dp"
+                android:textColor="#ffffff"/>
+
+            <Button
+                android:onClick="bAdd1"
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="12dp"
+                android:text="Goal +"
+                android:textColor="#ffffff"
+                android:textSize="32sp" />
+
+            <Button
+                android:onClick="bMinus1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Goal -"
+                android:textSize="32sp"
+                android:textColor="#ffffff"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <Button
+        android:onClick="reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="35sp"
+        android:layout_margin="14dp"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:textColor="#ffffff"
+        />
+
+</RelativeLayout>
