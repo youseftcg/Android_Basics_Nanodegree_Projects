@@ -4,11 +4,15 @@ Some of the projects that I created from scratch while studying Android basics t
 
 Topics covered in the Nanodegree program:
 
-User Interface - You will learn how to build nice screens, layouts according to standards, so your apps will look good
-User Input - You will learn how to make your apps interactive.
-MultiScreen Apps - The more screen you have, the more possibilities you discover. You will learn about switching among different screens, activities and fragments.
-Networking - There are a huge amount of available API-s all over the internet, with the help of them you can build apps with dynamic content. You will learn about HTTP requests, JSON Parsing and threads.
-Data Storage - Now you have the data, you need to store them somewhere, right? You'll learn about storing data with the help of SQLite.
+User Interface - how to build nice screens, layouts according to standards.
+
+User Input - how to make your apps interactive.
+
+MultiScreen Apps - how to swit among different screens, activities and fragments.
+
+Networking - build apps with dynamic content using APIs, learned about HTTP requests, JSON Parsing and threads.
+
+Data Storage - storing data with using SQLite.
 
 
 1- Counter:
