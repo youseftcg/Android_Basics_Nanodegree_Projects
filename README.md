@@ -17,7 +17,11 @@ Data Storage - Now you have the data, you need to store them somewhere, right? Y
 
 2- BookListing:
 
-![BookListing](hhttps://media.giphy.com/media/d3OG9NKpbZDeMoGQ/giphy.gif)
+![BookListing](https://media.giphy.com/media/d3OG9NKpbZDeMoGQ/giphy.gif)
+
+3-News:
+
+![BookListing](https://media.giphy.com/media/3oFzmdvxEvHbfWRwxG/giphy.gif)
 
 
 4- Inventory:
