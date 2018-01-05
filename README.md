@@ -21,8 +21,7 @@ Data Storage - Now you have the data, you need to store them somewhere, right? Y
 
 3-News:
 
-![BookListing](https://media.giphy.com/media/3oFzmdvxEvHbfWRwxG/giphy.gif)
-
+![News](https://media.giphy.com/media/3o7524ZmoeWkiQw1ck/giphy.gif)
 
 4- Inventory:
 
