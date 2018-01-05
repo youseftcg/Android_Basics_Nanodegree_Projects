@@ -14,17 +14,17 @@ Data Storage - Now you have the data, you need to store them somewhere, right? Y
 1- Counter:
 
 
-![alt text](https://media.giphy.com/media/xULW8L2H5TBEjGPZg4/giphy.gif)
+![Counter](https://media.giphy.com/media/xULW8L2H5TBEjGPZg4/giphy.gif)
 
 2- BookListing:
 
-![alt text](https://media.giphy.com/media/d3OG9NKpbZDeMoGQ/giphy.gif)
+![Book Listing](https://media.giphy.com/media/d3OG9NKpbZDeMoGQ/giphy.gif)
 
 3- News:
 
-![alt text](https://giant.gfycat.com/EmbarrassedQuestionableAnemone.gif)
+![News](https://i.imgur.com/Nwg1nVY.mp4)
 
 4- Inventory:
 
 
-![alt text](https://media.giphy.com/media/l49K0n3wM0Qf43u5a/giphy.gif)
+![Inventory](https://media.giphy.com/media/l49K0n3wM0Qf43u5a/giphy.gif)
