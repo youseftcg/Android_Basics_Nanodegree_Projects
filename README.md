@@ -15,14 +15,6 @@ Data Storage - Now you have the data, you need to store them somewhere, right? Y
 
 ![Counter](https://media.giphy.com/media/xULW8L2H5TBEjGPZg4/giphy.gif)
 
-2- BookListing:
-
-![Book Listing](https://media.giphy.com/media/3oFzmdvxEvHbfWRwxG/giphy.gif)
-
-3- News:
-
-![News](https://media.giphy.com/media/3oFzmdvxEvHbfWRwxG/giphy.gif)
-
 4- Inventory:
 
 ![Inventory](https://media.giphy.com/media/l49K0n3wM0Qf43u5a/giphy.gif)
