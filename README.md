@@ -22,7 +22,7 @@ Data Storage - Now you have the data, you need to store them somewhere, right? Y
 
 3- News:
 
-![News](https://i.imgur.com/Nwg1nVY.mp4)
+![News](https://media.giphy.com/media/3oFzmdvxEvHbfWRwxG/giphy.gif)
 
 4- Inventory:
 
