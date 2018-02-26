@@ -8,11 +8,12 @@ User Interface - how to build nice screens, layouts according to standards.
 
 User Input - how to make your apps interactive.
 
-MultiScreen Apps - how to switch among different screens, activities and fragments.
+MultiScreen Apps - how to swit among different screens, activities and fragments.
 
 Networking - build apps with dynamic content using APIs, learned about HTTP requests, JSON Parsing and threads.
 
-Data Storage - storing data into database using SQLite.
+Data Storage - storing data with using SQLite.
+
 
 1- Counter:
 
